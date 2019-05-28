@@ -170,7 +170,7 @@ a {
 	width:32.8%;
 	margin:15px 0.25%;
 	float: left;
-	background:#888;
+	background:#cd3261;
 	text-align:center;
 	line-height:30px;
 	letter-spacing:5px;
@@ -178,7 +178,7 @@ a {
 	color:#fff;
 }
 .procategory:hover{
-	background:#cd3261;
+	background:#ba2451;
 }
 .procategory img{
 	width:100%;
